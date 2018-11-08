@@ -1,4 +1,4 @@
-# # Fall 2018 :: CSE438 Lab1 My Shopping Calculator
+# # Fall 2018 :: CSE 438 Lab 1 - My Shopping Calculator
 It is a simple shopping calculator that calculates the final price of a product based on its original price, the current discount percentage, and the local sales tax.
 
 # # Build Environment
