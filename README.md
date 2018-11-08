@@ -22,4 +22,5 @@ It is a simple shopping calculator that calculates the final price of a product 
 > ![](1_1.gif)  
 >
 > The following demo shows the language and currency conversion feature.  
+>   
 > ![](1_2.gif)
