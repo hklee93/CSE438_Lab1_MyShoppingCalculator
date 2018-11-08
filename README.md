@@ -1,6 +1,11 @@
 # # Fall 2018 :: CSE438 Lab1 My Shopping Calculator
 It is a simple shopping calculator that calculates the final price of a product based on its original price, the current discount percentage, and the local sales tax.
 
+# # Build Environment
+  - Xcode 9.4
+  - Swift 4
+  - iPhone 8 
+
 # # Features
   - Users can input the original price, discount percentage, and sales tax percentage for a given product.
   - Whenever a text field is changed, the final price of the product is updated live.
