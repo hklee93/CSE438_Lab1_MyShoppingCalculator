@@ -18,6 +18,7 @@ It is a simple shopping calculator that calculates the final price of a product 
 
 # # Demo
 > The following demo shows the basic functionality of this app.  
+>   
 > ![](1_1.gif)  
 >
 > The following demo shows the language and currency conversion feature.  
