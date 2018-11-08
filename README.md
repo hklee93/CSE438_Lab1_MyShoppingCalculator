@@ -12,8 +12,8 @@ It is a simple shopping calculator that calculates the final price of a product 
   - The fields will only take digits [0-9] and decimal point.
 
 # # Demo
-> The following demo shows the basic functionality of this app.
-> ![](1_1.gif)
+> The following demo shows the basic functionality of this app.  
+> ![](1_1.gif)  
 >
-> The following demo shows the language and currency conversion feature.
+> The following demo shows the language and currency conversion feature.  
 > ![](1_2.gif)
