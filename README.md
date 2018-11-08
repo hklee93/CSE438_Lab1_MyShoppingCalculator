@@ -12,7 +12,7 @@ It is a simple shopping calculator that calculates the final price of a product 
   - Users can change languages between English and Korean. Based on the current language, a corresponding currency sign will be used. 
  
 # # Design Choices
-  - When the app is run for the first time, the empty UITextField values are treated as 0,  thus making the Final Price to be $0.00 (because tax is multiplied) until every field is filled for the first time. From there, the final price will be responsive based on the change of the input values.
+  - When the app is run for the first time, the empty UITextField values are treated as 0,  thus making the Final Price to be $0.00 (because a tax is multiplied) until every field is filled for the first time. From there, the final price will be responsive based on the change of the input values.
   - Large numbers are handled by limiting the length of UITextField to 10 digits.
   - The fields will only take digits [0-9] and decimal point.
 
